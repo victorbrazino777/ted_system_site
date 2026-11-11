@@ -19,6 +19,11 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Sustentabilidade ",
+      descricao: "Desenvolver soluções tecnológicas de forma consciente e responsável, buscando reduzir os impactos ambientais."
+
     }
   ],
   publicoAlvo:
@@ -55,6 +60,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Victor Emanoel Oliveira Lopes",
+      cargo: "Diretor de tecnologia e co-fundador",
+      foto: "/images/victorfoto.jpeg",
+      alt: "Foto de Victor Emanoel Oliveira Lopes",
+      descricao: "Começou a desenvolver software com seus amigos e hoje é responsavel por organizar as ideias da empresa TecVicar,tend um papel fundamental no crescimento da empresa."
     }
   ]
 };
